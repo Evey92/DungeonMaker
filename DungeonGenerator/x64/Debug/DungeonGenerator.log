@@ -1,0 +1,14 @@
+﻿  DungeonControl.cpp
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\vectormath.h(49): warning C4522: 'XVECTOR2': multiple assignment operators specified
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(22): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeoncontrol.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DungeonGenerator.cpp
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\vectormath.h(49): warning C4522: 'XVECTOR2': multiple assignment operators specified
+c:\users\ivan\desktop\dungeongenerator\dungeongenerator\dungeongenerator.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  DungeonGenerator.vcxproj -> C:\Users\Ivan\Desktop\DungeonGenerator\x64\Debug\DungeonGenerator.exe
